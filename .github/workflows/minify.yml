@@ -5,6 +5,9 @@ on:
     types: [opened, synchronize]
     paths:
       - 'dump-readable.json'
+  
+permissions:
+  contents: write
 
 jobs:
   minify:
