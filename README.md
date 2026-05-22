@@ -2,7 +2,7 @@
 Dataset from [Openopus](https://github.com/openopus-org/openopus_api). 
 
 ## Contributing 
-To contribute to this dataset, please update `dump-readable.json` and open. PR. `dump.json` is created by a Github
+To contribute to this dataset, please update `dump-readable.json` and open a PR. `dump.json` is created by a Github
 action and just takes out the whitespace in the json file, you don't need to update this file. 
 
 PRs with large diffs will require good reasoning for merging. 
